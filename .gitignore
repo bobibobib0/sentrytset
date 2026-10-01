@@ -1,0 +1,33 @@
+# Visual Studio / VisualGDB user state and caches
+.vs/
+.visualgdb/
+**/.visualgdb/
+*.user
+*.suo
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.opendb
+*.ipch
+
+# VisualGDB build output
+VisualGDB/
+**/VisualGDB/Debug/
+**/VisualGDB/Release/
+
+# Compiler and linker output
+*.o
+*.obj
+*.d
+*.dep
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*~
